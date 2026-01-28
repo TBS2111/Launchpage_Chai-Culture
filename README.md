@@ -50,6 +50,15 @@ Special care was taken to ensure readability, spacing, and touch-friendly elemen
 🔗 **Live Site:** (https://chaicultuetintern.netlify.app/)  
 
 ---
+## 🖼 Preview
+
+### Desktop View
+![Desktop Preview](desktop.png)
+
+### Mobile View
+![Mobile Preview](mobile.png)
+
+---
 
 ## 📂 Project Structure
 │
