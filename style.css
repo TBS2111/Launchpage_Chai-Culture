@@ -73,7 +73,7 @@ h1 {
     font-weight: 300;
 }
 
-/* Email form */
+
 .input-group {
     display: flex;
     max-width: 520px;
@@ -94,7 +94,6 @@ input[type="email"] {
     outline: none;
 }
 
-/* Placeholder visibility fix */
 input::placeholder {
     color: #e6d8a8;
     opacity: 1;
@@ -150,9 +149,7 @@ button:hover {
     color: var(--gold);
 }
 
-/* ================= MOBILE FIXES ================= */
-
-/* ===== FINAL MOBILE INPUT SIZE FIX ===== */
+/* ==MOBILE FIXES== */
 @media (max-width: 600px) {
 
     .input-group {
@@ -161,8 +158,8 @@ button:hover {
     }
 
     input[type="email"] {
-        padding: 0.7rem 1rem;   /* reduced height */
-        font-size: 0.85rem;     /* smaller text */
+        padding: 0.7rem 1rem;   
+        font-size: 0.85rem;     
         border-radius: 12px;
         background: rgba(0, 0, 0, 0.55);
         color: #ffffff;
@@ -174,7 +171,7 @@ button:hover {
     }
 
     button {
-        padding: 0.75rem 1rem;  /* reduced height */
+        padding: 0.75rem 1rem; 
         font-size: 0.85rem;
         border-radius: 12px;
         width: 100%;
